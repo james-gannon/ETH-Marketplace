@@ -47,5 +47,8 @@ Buyer now owns the purchased product, as indicated by their wallet address now u
 
 ![image](https://user-images.githubusercontent.com/50316657/133358972-33c6a13e-c329-4ef1-93cf-86cfdbc15b5c.png)
 
+Seller's account now has 2.5 more ETH in their wallet balance:
+
+![image](https://user-images.githubusercontent.com/50316657/133359182-54df4e3a-4cff-4a31-9203-09ef22c4e743.png)
 
 
